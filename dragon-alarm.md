@@ -1,5 +1,5 @@
 # The Dragon Alarm That Cried Whoosh
-## Thep False Positive Paradox
+## The False Positive Paradox
 
 In the quiet town of Puddleford, everyone slept soundly — except for TinkerTom Toddle, who stayed up inventing things.
 
