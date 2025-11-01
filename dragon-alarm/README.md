@@ -1,3 +1,6 @@
+![Cover image with title and subtitle, with picture of a superposition of dragons in
+background](cover.png)
+
 # The Dragon Alarm That Cried Whoosh
 ## The False Positive Paradox
 
