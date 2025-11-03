@@ -71,5 +71,6 @@ A funny smell passed through the town.
 A vast shadow swept over Puddleford — wings wide as rooftops, scales shining like coins in the sun.
 ![The dragon](illustration/08_the-end-of-puddleford.png)
 
-And no one knows, what happened to Puddleford town, after that.
+And that was the last of Puddleford town.
 ![The survivor](illustration/09_survivor.png)
+The End
